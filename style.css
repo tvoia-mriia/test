@@ -427,7 +427,7 @@ flex-basis: calc((100% - var(--indent) * (var(--items) -1)) / var(--items));
     max-width: 1280px;
     margin-left: auto;
     margin-right: auto;
-    background-image: url(../images/prices/prices-bg.png),
+    background-image: url(../images/prices/bg-prices.png),
       linear-gradient (to bottom, #191c26, #191c26);
     background-repeat: no-repeat;
     background-position: center;
